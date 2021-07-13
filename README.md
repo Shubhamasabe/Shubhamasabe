@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://emoji.slack-edge.com/TCQ18L22Z/airflow_spin_new/39ee36ca0ff810b5.gif" width="40" height="40" />
 
 <!--
 **Shubhamasabe/Shubhamasabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
